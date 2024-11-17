@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <ThemeProvider defaultTheme="dark">
-        <Layout>Hi</Layout>
+        <Layout>Hello</Layout>
       </ThemeProvider>
     </BrowserRouter>
   );
